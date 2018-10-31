@@ -13,11 +13,11 @@
                   postgresql-plain,
                   heroku-original
                 ]
-  cover: Alvaro-Eduardo-Alvarez-Alcorta-CV-ENGLISH/assets/images/project_covers/tic-tac-toe-cover.jpg
+  cover: /assets/images/project_covers/tic-tac-toe-cover.jpg
   images: [
-    'Alvaro-Eduardo-Alvarez-Alcorta-CV-ENGLISH/assets/images/project_images/tic_tac_toe/tictactoe1.png',
-    'Alvaro-Eduardo-Alvarez-Alcorta-CV-ENGLISH/assets/images/project_images/tic_tac_toe/tictactoe2.png',
-    'Alvaro-Eduardo-Alvarez-Alcorta-CV-ENGLISH/assets/images/project_images/tic_tac_toe/tictactoe3.png'
+    '/assets/images/project_images/tic_tac_toe/tictactoe1.png',
+    '/assets/images/project_images/tic_tac_toe/tictactoe2.png',
+    '/assets/images/project_images/tic_tac_toe/tictactoe3.png'
   ]
 
 - id: 3
@@ -35,9 +35,9 @@
                   heroku-original,
                   materialize-plain
                 ]
-  cover: Alvaro-Eduardo-Alvarez-Alcorta-CV-ENGLISH/assets/images/project_covers/hack-overflow-cover.png
+  cover: /assets/images/project_covers/hack-overflow-cover.png
   images: [
-    'Alvaro-Eduardo-Alvarez-Alcorta-CV-ENGLISH/assets/images/project_covers/hack-overflow-cover.png'
+    '/assets/images/project_covers/hack-overflow-cover.png'
   ]
 - id: 4
   title: ShootThingsGame
@@ -49,9 +49,9 @@
                   css3-plain-wordmark,
                   javascript-plain
                 ]
-  cover: Alvaro-Eduardo-Alvarez-Alcorta-CV-ENGLISH/assets/images/project_covers/shoot-things-game-cover.png
+  cover: /assets/images/project_covers/shoot-things-game-cover.png
   images: [
-    'Alvaro-Eduardo-Alvarez-Alcorta-CV-ENGLISH/assets/images/project_covers/shoot-things-game-cover.png'
+    '/assets/images/project_covers/shoot-things-game-cover.png'
   ]
 # - name: Tic-tac-toe
 #   url: https://dbc-engage-me.herokuapp.com/
