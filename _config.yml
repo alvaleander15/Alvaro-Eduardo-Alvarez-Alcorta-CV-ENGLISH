@@ -28,7 +28,7 @@ twitter_username: "@aalvarez37"
 google_analytics_id: ''
 select_options: clear-filters HTML5 CSS3 SCSS javaScript jQuery materialize charts.js React jekyll Ruby-on-Rails Sinatra front-end back-end finished current
 sass:
-  sass_dir: assets/css/main.css
+  sass_dir: Alvaro-Eduardo-Alvarez-Alcorta-CV-ENGLISH/assets/css/main.css
   style: :nested
 
 gems:
