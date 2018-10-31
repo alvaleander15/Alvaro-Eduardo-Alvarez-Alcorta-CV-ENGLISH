@@ -15,18 +15,17 @@
       skill_name: JavaScript
     - class: php-plain
       skill_name: PHP
-    - class: asp-plain
+   
       skill_name: ASP.NET
-    - class: visual-plain
+    
       skill_name: Visual C#
     - class: java-plain
       skill_name: JAVA
-    - class: builder-plain
+    
       skill_name: C++ Builder
 
 - name: databases
   skills:
-    - class: sql-plain
       skill_name: SQL
     - class: mongodb-plain
       skill_name: MongoDB
@@ -49,5 +48,4 @@
 
 - name: mobile
   skills:
-    - class: xamarin-original
       skill_name: Xamarin
